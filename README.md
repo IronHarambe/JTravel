@@ -1,3 +1,3 @@
 # JTravel
 
-Travel brochure type webite, for helping travelings that want to go to Japan!
+Travel brochure type website, for helping travellers that want to go to Japan!
